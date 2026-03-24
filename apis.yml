@@ -1,0 +1,7 @@
+aid: dish-network
+url: https://raw.githubusercontent.com/api-evangelist/dish-network/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.dish-network.com

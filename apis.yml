@@ -1,7 +1,11 @@
 aid: dish-network
-url: https://raw.githubusercontent.com/api-evangelist/dish-network/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/dish-network/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.dish-network.com
+description: >-
+  DISH Network is a U.S. television provider offering satellite and streaming TV services,
+  as well as wireless services through its Boost Mobile and DISH Wireless brands.

@@ -14,6 +14,8 @@ tags:
   - Wireless
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/dish-network
   - type: Website
     url: https://www.dish.com
   - type: Website

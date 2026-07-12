@@ -15,6 +15,10 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/dish-network-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/dish-network-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/dish-network
   - type: Website

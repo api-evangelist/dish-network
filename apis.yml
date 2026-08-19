@@ -15,7 +15,7 @@ accessModel:
   method: derived
 modified: '2026-04-28'
 created: '2026-03-24'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 type: Index
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dish-network.png
 tags:

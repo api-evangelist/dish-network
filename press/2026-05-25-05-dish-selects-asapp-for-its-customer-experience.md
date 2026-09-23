@@ -1,7 +1,9 @@
 ---
 title: DISH Selects ASAPP for its Customer Experience ...
 url: https://www.asapp.com/press/dish-selects-asapp-for-its-customer-experience-performance-cxp-platform
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"DISH Network" press release artificial intelligence'
 position: 5
 source: serpapi-google

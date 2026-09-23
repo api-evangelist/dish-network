@@ -1,7 +1,9 @@
 ---
 title: Dish Using IBM AI for 5G Network, ConnectMaine's New ...
 url: https://broadbandbreakfast.com/dish-using-ibm-ai-for-5g-network-connectmaines-new-grants-intuit-buys-mailchimp-stl-hires-former-ericsson-exec/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"DISH Network" press release artificial intelligence'
 position: 3
 source: serpapi-google
